@@ -6,6 +6,7 @@ This template has 3 items
 3. `documentation.md`
 4. `/assets`
 
+## Details
 1. `component.html` is your component code
 2. `metadata.md` is the information about the component (Name, Version, Tailwind CSS Version, etc.)
 3. `documentation.md` is the documentation page for your component
