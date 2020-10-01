@@ -19,3 +19,7 @@ We only have a few guidelines for formatting code,
 
 * Please use 4 spaces for indentation
 * Use comments where necessary to explain the functions of certain sections
+
+# Contributors
+
+* [IzMichael](https://izmichael.xyz)
