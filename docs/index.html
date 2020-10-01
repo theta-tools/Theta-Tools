@@ -1,0 +1,49 @@
+<head>
+    <title>Documentation | Theta Tools</title>
+    <link rel="stylesheet" href="https://resources.izmichael.xyz/assets/tailwind.css">
+    <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
+    <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
+    <link rel="stylesheet" href="/assets/styles.css">
+    <script src="/assets/js/docsHandler.js"></script>
+</head>
+
+<body>
+    <div class="w-full h-screen flex overflow-hidden">
+        <div class="w-64 h-full overflow-y-auto p-5 text-right border-r-2 border-black">
+            <section class="flex flex-col mb-6">
+                <p class="docs-section-header text-xl mb-2">Getting Started</p>
+                <a class="docs-list" onclick="setPage('getting started', 'usage')">Usage</a>
+                <a class="docs-list" onclick="setPage('getting started', 'README')">README</a>
+            </section>
+            <p class="docs-category-header text-xl mb-2">Components</p>
+            <section class="flex flex-col mb-6">
+                <!-- <p class="docs-section-header mb-2">Components</p> -->
+            </section>
+        </div>
+        <div class="w-full h-full overflow-y-auto">
+            <div class="w-full bg-gray-200 p-6 sticky top-0 grid grid-cols-2 px-10 border-b-2 border-black z-50"
+                id="scroll1">
+                <a href="/" class="w-64 h-full">
+                    <div class="flex">
+                        <img src="/assets/img/logo-h2.png" class="rounded-full h-16">
+                        <h1 class="text-3xl place-self-center ml-4">Theta Tools</h1>
+                    </div>
+                </a>
+                <div class="flex justify-end">
+                    <a href="/" class="contributing p-4 text-lg place-self-center">Home</a>
+                    <div class="bg-black w-px mx-2"></div>
+                    <a href="/contributing" class="contributing p-4 text-lg place-self-center">Contributing</a>
+                    <div class="bg-black w-px mx-2"></div>
+                    <a href="/docs"
+                        class="contributing p-4 text-lg place-self-center border-b-2 border-black">Documentation</a>
+                </div>
+            </div>
+            <p class="text-gray-600 text-sm m-8" id="breadcrumb"><a href="/">Home</a> / <a
+                    href="/docs">Documentation</a> / Getting Started / Usage</p>
+            <div id="docsContainer">
+                <zero-md css-urls='["/assets/md.css"]' src="/docs/pages/getting started/usage.md"
+                    class="mx-8 mb-8" id="docs"></zero-md>
+            </div>
+        </div>
+    </div>
+</body>

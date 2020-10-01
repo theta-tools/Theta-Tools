@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Duplicates
+    about: Please ensure that no-one else has raised this issue.
+  - name: Support
+    url: https://theta-tools.github.io/support
+    about: Please ask questions here.
+  - name: Suggesting a Feature
+    url: https://theta-tools.github.io/contributing
+    about: Please go here before suggesting a feature

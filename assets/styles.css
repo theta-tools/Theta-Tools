@@ -1,0 +1,41 @@
+/* Tailwind Imports */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Font Imports */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
+
+/* Other */
+body {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.docs-category-header {
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #718096;
+}
+
+.docs-section-header {
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #718096;
+}
+
+.docs-list {
+    color: #4a5568;
+    text-align: right;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+#breadcrumb {
+    text-transform: capitalize;
+}
