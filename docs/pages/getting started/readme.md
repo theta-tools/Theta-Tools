@@ -12,7 +12,7 @@ You can install Theta Tools in 2 Easy Steps!
 #### Usage
 You can use Theta Tools in 2 Easy Steps!
 1. Browse the component library (In the documentation) for the component you'd like to add
-2. Click the 'Implement' button
+2. Click the 'Implement'button
 
 ## Contributing
 [Issues are always welcome](https://github.com/theta-tools/theta-tools.github.io/issues/new/choose), but if you're planning to modify code, and contribute new code, please follow the steps below.  
@@ -21,4 +21,4 @@ Firstly, read the [Contributing Guide](https://theta-tools.github.io/contributin
 Then, follow our [Contribution Plan](https://theta-tools.github.io/contributing/plan) to get setup with files and guidelines
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit)
+[Apache-2.0](https://choosealicense.com/licenses/apache-2.0/)
