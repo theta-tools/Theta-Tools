@@ -1,6 +1,6 @@
 # Theta Tools
 
-Theta Tools are a set of HTML Based, pre-built components and assets that can be used in any project.  
+Theta Tools are a set of HTML Based, Tailwind CSS Designed, pre-built components and assets that can be used in any project.  
 The project is currently based at [https://theta-tools.github.io/](https://theta-tools.github.io/)
 
 You can find information on installation and usage at [https://theta-tools.github.io/docs](https://theta-tools.github.io/docs)

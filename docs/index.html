@@ -5,6 +5,7 @@
     <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
     <link rel="stylesheet" href="/assets/styles.css">
     <script src="/assets/js/docsHandler.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
@@ -21,21 +22,20 @@
             </section>
         </div>
         <div class="w-full h-full overflow-y-auto">
-            <div class="w-full bg-gray-200 p-6 sticky top-0 grid grid-cols-2 px-10 border-b-2 border-black z-50"
-                id="scroll1">
-                <a href="/" class="w-64 h-full">
-                    <div class="flex">
+            <div class="w-full bg-gray-200 p-6 mb-4 grid grid-cols-1 lg:grid-cols-2 px-10 border-t border-black z-50" id="scroll1">
+                <a href="/" class="w-64 h-full mx-auto lg:mx-0">
+                    <div class="flex lg:ml-0">
                         <img src="/assets/img/logo-h2.png" class="rounded-full h-16">
-                        <h1 class="text-3xl place-self-center ml-4">Theta Tools</h1>
+                        <h1 class="text-xl lg:text-3xl place-self-center ml-4">Theta Tools</h1>
                     </div>
                 </a>
-                <div class="flex justify-end">
-                    <a href="/" class="contributing p-4 text-lg place-self-center">Home</a>
-                    <div class="bg-black w-px mx-2"></div>
-                    <a href="/contributing" class="contributing p-4 text-lg place-self-center">Contributing</a>
-                    <div class="bg-black w-px mx-2"></div>
-                    <a href="/docs"
-                        class="contributing p-4 text-lg place-self-center border-b-2 border-black">Documentation</a>
+                <div class="flex justify-end flex-col lg:flex-row">
+                    <a href="/"
+                        class="contributing p-4 text-md lg:text-lg place-self-center">Home</a>
+                    <div class="bg-black lg:w-px w-0 lg:mx-2"></div>
+                    <a href="/contributing" class="contributing p-4 text-md lg:text-lg place-self-center">Contributing</a>
+                    <div class="bg-black lg:w-px w-0 lg:mx-2"></div>
+                    <a href="/docs" class="contributing p-4 text-md lg:text-lg place-self-center border-b-2 border-black">Documentation</a>
                 </div>
             </div>
             <p class="text-gray-600 text-sm m-8" id="breadcrumb"><a href="/">Home</a> / <a
