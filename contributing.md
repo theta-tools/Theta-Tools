@@ -6,6 +6,8 @@ You can find our repo at [https://github.com/theta-tools/theta-tools](https://gi
 Firstly, read the [Contributing Guide](https://theta-tools.github.io/contributing)  
 Then, follow our [Contribution Plan](https://theta-tools.github.io/contributing/plan) to get setup with files and guidelines
 
+If you're a contributor and in our [Discord](https://discord.gg/P8RyW8F), you can let us know and we'll give you a special role
+
 # Contributing Guide
 
 If you want to contribute to Theta Tools , that's great! We're always looking for more contributions. But, we ask that you follow certain guidelines when contributing.

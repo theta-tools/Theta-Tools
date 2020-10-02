@@ -6,6 +6,8 @@
 Theta Tools are a set of HTML Based, Tailwind CSS Designed, pre-built components and assets that can be used in any project.  
 The project is currently based at [https://theta-tools.github.io/](https://theta-tools.github.io/)
 
+[Discord](https://discord.gg/P8RyW8F)
+
 You can find information on installation and usage at [https://theta-tools.github.io/docs](https://theta-tools.github.io/docs)
 
 ## Contributing
@@ -16,6 +18,7 @@ Then, follow our [Contribution Plan](https://theta-tools.github.io/contributing/
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit)
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
