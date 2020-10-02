@@ -8,10 +8,10 @@ assignees: ''
 ---
 
 **Category**
-- [ ] Text Based (Typo, etc.)
-- [ ] Missing or Inaccurate Info
-- [ ] Incorrect / Broken Link
-- [ ] Other
+[ ] Text Based (Typo, etc.)
+[ ] Missing or Inaccurate Info
+[ ] Incorrect / Broken Link
+[ ] Other
 
 **Describe the bug**
 A clear and concise description of what the bug is.
