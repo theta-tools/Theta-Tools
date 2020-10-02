@@ -23,7 +23,8 @@
         "maintenance",
         "plugin",
         "question",
-        "tool"
+        "tool",
+        "bug"
       ]
     }
   ],
