@@ -1,8 +1,5 @@
 {
-  "files": [
-    "README.md",
-    "contributing.md"
-  ],
+  "files": ["README.md", "contributing.md"],
   "imageSize": 100,
   "commit": false,
   "contributors": [
