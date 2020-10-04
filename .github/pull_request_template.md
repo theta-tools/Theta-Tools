@@ -1,5 +1,5 @@
-**Requirements**
-- [ ] Linked Issue
+**Linked Issue(s)**
+- Resolves #
 
 **Describe the changes**
 A clear and concise description of what the changes are.
