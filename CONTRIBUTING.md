@@ -15,6 +15,7 @@ If you want to contribute to Theta Tools , that's great! We're always looking fo
 * Please correctly format your issues and pull requests
 * Please follow the guidelines in the [Contribution Plan](https://theta-tools.github.io/contributing/plan)
 * [V0.5+] Never commit directly to the `Main` branch. Open a new branch for commits
+  * Please name your branch according to the following specification `YOURUSERNAME/BRANCH-AIM`. E.G: `IzMichael/Add-ContactForm-Component`
 
 ## Code Formatting
 
