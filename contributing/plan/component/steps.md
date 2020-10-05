@@ -8,6 +8,5 @@
 5. Rename the Duplicate to your component's name
 6. Read and follow the `README.md` in the new component folder
 7. Develop your component
-8. Delete the `YOUR COMPONENT/assets` folder if un-needed
-9. Submit your component, along with the `documentation.md` via a pull request
-10. Wait for a moderator to approve your component
+8. Submit your component, along with the `documentation.md` via a pull request
+9. Wait for a moderator to approve your component
