@@ -19,5 +19,5 @@
 ## Description
 A clean popup box with an image and a call to action button.
 
-Modify the Image Source, Title, Caption, and Button before usage.
+Modify the Image Source, Title, Caption, Button Destination and Button Text before usage.
 <!-- EXPLAIN ABOUT YOUR COMPONENT HERE -->
