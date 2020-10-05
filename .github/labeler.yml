@@ -1,0 +1,7 @@
+# Add 'source' label to any change to src files within the source dir EXCEPT for the docs sub-folder
+docs:
+- any: ['docs/**/*']
+
+# Add 'frontend` label to any change to *.js files as long as the `main.js` hasn't changed
+component:
+- any: ['tools/components/**/*']
