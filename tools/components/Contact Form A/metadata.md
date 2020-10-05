@@ -1,4 +1,5 @@
 <!-- Only Modify The Commented Text and Capitalised Text-->
-# COMPONENT NAME
+# Contact Form A
 ## Description
+A simple and clean Contact Form.
 <!-- EXPLAIN ABOUT YOUR COMPONENT HERE -->
