@@ -1,22 +1,27 @@
 # Theta Tools
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Theta Tools are a set of HTML Based, Tailwind CSS Designed, pre-built components and assets that can be used in any project.  
-The project is currently based at [https://theta-tools.github.io/](https://theta-tools.github.io/)
+The project is currently based at [https://thetatools.xyz/](https://thetatools.xyz/)
 
 [Discord](https://discord.gg/P8RyW8F)
 
-You can find information on installation and usage at [https://theta-tools.github.io/docs](https://theta-tools.github.io/docs)
+You can find information on installation and usage at [https://theta-tools.github.io/docs](https://thetatools.xyz/docs/)
 
 ## Contributing
-[Issues are always welcome](https://github.com/theta-tools/theta-tools.github.io/issues/new/choose), but if you're planning to modify code, and contribute new code, please follow the steps below.  
-  
-Firstly, read the [Contributing Guide](https://theta-tools.github.io/contributing)  
-Then, follow our [Contribution Plan](https://theta-tools.github.io/contributing/plan) to get setup with files and guidelines
+
+[Issues are always welcome](https://github.com/theta-tools/theta-tools.github.io/issues/new/choose), but if you're planning to modify code, and contribute new code, please follow the steps below.
+
+Firstly, read the [Contributing Guide](https://thetatools.xyz/contributing/)  
+Then, follow our [Contribution Plan](https://thetatools.xyz/contributing/plan/) to get setup with files and guidelines
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit)
 
 ## Contributors ✨
@@ -34,6 +39,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
