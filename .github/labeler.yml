@@ -1,5 +1,0 @@
-docs:
-- any: ['docs/**/*']
-
-component:
-- any: ['tools/components/**/*']
