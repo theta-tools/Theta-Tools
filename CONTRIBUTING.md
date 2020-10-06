@@ -2,6 +2,8 @@
 
 You can find our repo at [https://github.com/theta-tools/theta-tools](https://github.com/theta-tools/theta-tools)
 
+Anyone is welcome to contribute a component, just follow the steps below to learn how.
+
 [Issues are always welcome](https://github.com/theta-tools/theta-tools.github.io/issues/new/choose), but if you're planning to modify code, and contribute new code, please follow the steps below.
 
 Firstly, read the [Contributing Guide](https://thetatools.xyz/contributing/)  
