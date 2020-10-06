@@ -1,5 +1,8 @@
 {
-  "files": ["README.md", "CONTRIBUTING.md"],
+  "files": [
+    "README.md",
+    "CONTRIBUTING.md"
+  ],
   "imageSize": 100,
   "commit": false,
   "contributors": [
@@ -23,10 +26,19 @@
         "tool",
         "bug"
       ]
+    },
+    {
+      "login": "rperry99",
+      "name": "Russ Perry",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/24259120?v=4",
+      "profile": "https://russperry.dev",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "theta-tools.github.io",
+  "projectName": "Theta-Tools",
   "projectOwner": "theta-tools",
   "repoType": "github",
   "repoHost": "https://github.com",
