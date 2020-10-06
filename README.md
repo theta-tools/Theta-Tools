@@ -1,9 +1,7 @@
 # Theta Tools
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Theta Tools are a set of HTML Based, Tailwind CSS Designed, pre-built components and assets that can be used in any project.  
@@ -33,13 +31,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/IzMichael"><img src="https://avatars0.githubusercontent.com/u/57115702?v=4" width="100px;" alt=""/><br /><sub><b>IzMichael</b></sub></a><br /><a href="https://github.com/theta-tools/theta-tools.github.io/commits?author=IzMichael" title="Tests">⚠️</a> <a href="#business-IzMichael" title="Business development">💼</a> <a href="https://github.com/theta-tools/theta-tools.github.io/commits?author=IzMichael" title="Code">💻</a> <a href="#content-IzMichael" title="Content">🖋</a> <a href="https://github.com/theta-tools/theta-tools.github.io/commits?author=IzMichael" title="Documentation">📖</a> <a href="#design-IzMichael" title="Design">🎨</a> <a href="#ideas-IzMichael" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-IzMichael" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-IzMichael" title="Maintenance">🚧</a> <a href="#plugin-IzMichael" title="Plugin/utility libraries">🔌</a> <a href="#question-IzMichael" title="Answering Questions">💬</a> <a href="#tool-IzMichael" title="Tools">🔧</a> <a href="https://github.com/theta-tools/theta-tools.github.io/issues?q=author%3AIzMichael" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/IzMichael"><img src="https://avatars0.githubusercontent.com/u/57115702?v=4" width="100px;" alt=""/><br /><sub><b>IzMichael</b></sub></a><br /><a href="https://github.com/theta-tools/Theta-Tools/commits?author=IzMichael" title="Tests">⚠️</a> <a href="#business-IzMichael" title="Business development">💼</a> <a href="https://github.com/theta-tools/Theta-Tools/commits?author=IzMichael" title="Code">💻</a> <a href="#content-IzMichael" title="Content">🖋</a> <a href="https://github.com/theta-tools/Theta-Tools/commits?author=IzMichael" title="Documentation">📖</a> <a href="#design-IzMichael" title="Design">🎨</a> <a href="#ideas-IzMichael" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-IzMichael" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-IzMichael" title="Maintenance">🚧</a> <a href="#plugin-IzMichael" title="Plugin/utility libraries">🔌</a> <a href="#question-IzMichael" title="Answering Questions">💬</a> <a href="#tool-IzMichael" title="Tools">🔧</a> <a href="https://github.com/theta-tools/Theta-Tools/issues?q=author%3AIzMichael" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://russperry.dev"><img src="https://avatars3.githubusercontent.com/u/24259120?v=4" width="100px;" alt=""/><br /><sub><b>Russ Perry</b></sub></a><br /><a href="https://github.com/theta-tools/Theta-Tools/issues?q=author%3Arperry99" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
