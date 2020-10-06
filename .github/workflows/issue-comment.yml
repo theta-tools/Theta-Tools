@@ -1,0 +1,25 @@
+# This workflow posts an automated comment on every new issue
+
+# https://github.com/marketplace/actions/create-or-update-comment (https://github.com/peter-evans/create-or-update-comment)
+
+name: Automatic Comment
+on:
+  issues:
+    types: [opened]
+jobs:
+  comment:
+    name: Comment
+    runs-on: ubuntu-latest
+    steps:
+      - name: Automatic Comment
+        uses: peter-evans/create-or-update-comment@v1
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            👋 @${author}
+            
+            Thank your for raising a issue. We will try and get back to you as soon as possible.
+            Please make sure you have given us as much context as possible.
+            
+            To our contributors, Issues marked 'Ready for Dev' are available to claim, just let us know with a reply if you want to claim this issue.
+            Remember to follow our [Contributing Guidelines](https://thetatools.xyz/contributing/)
