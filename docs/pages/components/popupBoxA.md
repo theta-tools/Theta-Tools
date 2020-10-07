@@ -1,0 +1,23 @@
+<!-- Only Modify The Commented Text and Capitalised Text-->
+# Popup Box A
+
+```
+<thetacomponent>
+    <div class="w-screen h-screen position absolute z-50 flex items-center" style="backdrop-filter: blur(20px);">
+        <div class="mx-auto w-1/3 p-5 border-4 border-black flex flex-col bg-blue-100">
+            <img class="m-3 w-32 mx-auto border border-black" src="IMAGE SOURCE HERE">
+            <h1 class="text-4xl mx-auto">TITLE HERE</h1>
+            <p class="text-sm italic text-gray-700 mx-auto mb-2">CAPTION HERE</p>
+            <button
+                class="p-3 bg-blue-300 mx-auto rounded-full px-10 outline-none focus:shadow-outline focus:bg-blue-100"
+                style="outline: none;" onclick="window.location.href='BUTTON DESTINATION HERE'">BUTTON TEXT HERE</button>
+        </div>
+    </div>
+</thetacomponent>
+```
+
+## Description
+A clean popup box with an image and a call to action button.
+
+Modify the Image Source, Title, Caption, Button Destination and Button Text before usage.
+<!-- EXPLAIN ABOUT YOUR COMPONENT HERE -->
