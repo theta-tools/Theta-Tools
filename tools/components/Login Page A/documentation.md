@@ -19,7 +19,7 @@
                 </div>
 
                 <div class="flex items-center justify-between">
-                    <button class="bg-teal-dark hover:bg-teal text-white font-bold py-2 px-4 rounded">
+                    <button class="bg-teal-dark hover:bg-teal text-black font-bold py-2 px-4 rounded">
                         Login
                     </button>
 
